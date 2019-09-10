@@ -1,0 +1,4 @@
+topic: /scan
+queue_size: 10
+control_gain: 0.5
+thrust_speed: 2.0

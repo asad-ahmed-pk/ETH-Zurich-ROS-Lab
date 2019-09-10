@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: husky_highlevel_controller
+Description: Description of husky_highlevel_controller
+Version: 0.0.1
+Cflags: -I/usr/local/include
+Libs: -L/usr/local/lib 
+Requires: roscpp sensor_msgs geometry_msgs visualization_msgs robot_localization
